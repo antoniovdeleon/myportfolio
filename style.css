@@ -7,6 +7,11 @@ h1	{
 	font-size: 100px;
 }
 p		{
-	color:white;
+	color:black;
+  margin-top:5px;
+  margin-bottom:5px
 }
+
+/* still gotta fix containers - not finished yet! */
+
 
